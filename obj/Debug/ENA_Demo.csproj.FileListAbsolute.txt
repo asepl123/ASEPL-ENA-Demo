@@ -1,0 +1,14 @@
+C:\Program Files\Keysight\Test Automation\Packages\ENA_Demo\ENA_Demo.dll
+C:\Program Files\Keysight\Test Automation\Packages\ENA_Demo\ENA_Demo.pdb
+C:\PFMO\OneDrive - Keysight Technologies\PathWaveENA_Demo\PathWaveENA_Demo\ENA_Demo\obj\Debug\ENA_Demo.csproj.CoreCompileInputs.cache
+C:\PFMO\OneDrive - Keysight Technologies\PathWaveENA_Demo\PathWaveENA_Demo\ENA_Demo\obj\Debug\ENA_Demo.dll
+C:\PFMO\OneDrive - Keysight Technologies\PathWaveENA_Demo\PathWaveENA_Demo\ENA_Demo\obj\Debug\ENA_Demo.pdb
+C:\PFMO\OneDrive - Keysight Technologies\PathWaveENA_Demo\PathWaveENA_Demo\ENA_Demo\obj\Debug\ENA_Demo.csprojAssemblyReference.cache
+C:\Program Files\OpenTAP\Packages\ENA_Demo\ENA_Demo.dll
+C:\Program Files\OpenTAP\Packages\ENA_Demo\ENA_Demo.pdb
+C:\Users\ae1\source\repos\ENA_Demo\obj\Debug\ENA_Demo.csprojAssemblyReference.cache
+C:\Users\ae1\source\repos\ENA_Demo\obj\Debug\ENA_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ae1\source\repos\ENA_Demo\obj\Debug\ENA_Demo.dll
+C:\Users\ae1\source\repos\ENA_Demo\obj\Debug\ENA_Demo.pdb
+C:\Users\ae1\source\repos\ENA_Demo\ENA_Demo.dll
+C:\Users\ae1\source\repos\ENA_Demo\ENA_Demo.pdb
